@@ -1,0 +1,1 @@
+''' display the factorial of given no'''

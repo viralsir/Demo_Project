@@ -1,0 +1,1 @@
+'''  to check weather the given no is even or odd '''
